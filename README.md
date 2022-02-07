@@ -9,6 +9,9 @@ row represents a single student; the columns are as follows:
 -   Email address (ideally, the one that matches up with your CUNYfirst one)
 -   (Optional; not mandatory) your preferred pronouns, or blank
 
+Note that if you leave the preferred pronouns column blank, you should end the line with
+a tab (`\t`) character, so that there are 3 columns on all lines.
+
 Your assignment is to add a row to this file with your information by issuing a
 pull request using the fork-and-pull model. Your pull request should otherwise
 preserve the integrity of the roster; i.e., it should not delete other students'
